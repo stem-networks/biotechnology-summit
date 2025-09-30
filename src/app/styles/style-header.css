@@ -629,7 +629,7 @@ li {
 }
 
 .sticky-header .logo {
-	padding: 0px 0px 2px;
+	padding: 8px 0px 2px;
 	max-width: 125px;
 }
 
@@ -11412,7 +11412,7 @@ input[text]:focus {
 	position: relative;
 	z-index: 1;
 	margin-bottom: 20px;
-	padding-bottom: 13px;
+	padding-bottom: 10px;
 }
 
 .box_wrap_fot1 h4::before {
