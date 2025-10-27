@@ -17,7 +17,7 @@ Intructions:
 	--preloader-color: #f9fbfe;
 	--white-color: #fff;
 	--black-color: #000;
-	--abstractfilebg-color: #4ab4a5;
+	--abstractfilebg-color: #69dbcb;
 	--offerbg-color: #123a31;
 	--contentbg-color: #737373;
 	--iconbg-color: #adadad;
@@ -202,11 +202,11 @@ a {
 }
 
 .banner_wrap button {
-	background-color: var(--primary-color);
+	background-color: var(--fourth-color);
 }
 
 .banner_wrap button:hover {
-	background-color: var(--bannerhover-color);
+	background-color: var(--primary-color);
 }
 
 .sq_mainbox {
