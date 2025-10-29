@@ -125,6 +125,13 @@
         "content": "Explore highlights from our previous Biotechnology Conference. Discover key sessions, groundbreaking research, expert speakers, and networking moments that shaped past events, paving the way for PPBC 2025 in Germany.",
         "meta_keywords": "Previous Biotechnology Conference, Pharmaceutics Past Events, Biotechnology Conference Highlights, Pharma and Biotechnology Conference History, Pharma Event Recap, Pharmaceutics Conference Archives, Previous Drug Development Conference, Pharma and Biotech Research Events, Global Biotechnology Conference History, Past Pharmaceutical Science Conferences"
       }
+    ],
+    "galleryEvent": [
+      {
+        "title": "Biotechnology PBC 2025 | Highlights from the Biotechnology Conference in Geneva, Switzerland",
+        "content": "Explore the highlights of Biotechnology PBC 2025, held in Geneva, Switzerland. Discover scientific sessions, keynote talks, research presentations, and networking moments from this global biotechnology conference that brought together leading experts, researchers, and industry innovators.",
+        "meta_keywords": "Biotechnology PBC 2025, Biotechnology Conference 2025, Biotech Summit Geneva, Biotech Event Switzerland, Life Sciences Conference 2025, Biomedical Research Conference, Biotech Innovations 2025, PBC Geneva 2025, Biotech Global Meet, Biotechnology Highlights"
+      }
     ]
   },
   "display_features": [
@@ -138,7 +145,13 @@
     },
     {
       "title": "Previous Conference",
-      "link": "/previous-conference"
+      "link": "/previous-conference",
+      "subItems": [
+        {
+          "title": "2025 Conference Report",
+          "link": "/previous-conference"
+        }
+      ]
     },
     {
       "title": "Guidelines",
